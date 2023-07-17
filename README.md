@@ -1,38 +1,37 @@
 # Project 2: Logic and Classical Planning
 
-------Solved Questions------
------modified functions-----
+This project implements an artificial intelligence solution for solving maze problems using the classic game character Pacman. The goal is to develop an intelligent agent that can navigate through a maze and find the optimal path to reach the target.
 
 1. Logic Warm-up:
-- sentence1
-- sentence2
-- sentence3
-- findModelUnderstandingCheck
-- entails
-- plTrueInverse
+* sentence1
+* sentence2
+* sentence3
+* findModelUnderstandingCheck
+* entails
+* plTrueInverse
 
 2. Logic-workout:
-- atLeastOne
-- atMostOne
-- exactlyOne
+* atLeastOne
+* atMostOne
+* exactlyOne
 
 3. Pacphysics-and-satisfiability:
-- pacmanSuccessorAxiomSingle
-- pacphysicsAxioms
-- checkLocationSatisfiability
+* pacmanSuccessorAxiomSingle
+* pacphysicsAxioms
+* checkLocationSatisfiability
 
 4. Path Planning with Logic:
-- positionLogicPlan
+* positionLogicPlan
 
 5. Eating All the Food:
-- foodLogicPlan
+* foodLogicPlan
 
 6. Localization:
-- localization
+* localization
 
 7. Mapping:
-- mapping
+* mapping
 
 8. SLAM:
-- slam
+* slam
 
